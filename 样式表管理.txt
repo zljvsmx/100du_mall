@@ -1,0 +1,20 @@
+重置样式：
+
+公共样式：
+wrap
+fl
+fr
+clear
+
+布局模块：
+header
+nav
+main
+	section
+	options
+	main_ad
+side
+	section_side
+footer
+
+结构模块：
